@@ -7,10 +7,10 @@ export default function Home() {
         <div className="header">
             
             <div className="header-info">
-                <h1>Your Name</h1>
-                <p>Professional Title</p>
-                <p>Email: your.email@example.com | Phone: +123-456-7890</p>
-                <p>Address: Your City, Country</p>
+                <h1>KAMRAN HUSSAIN</h1>
+                <p>Professional Title: Government Employee</p>
+                <p>Email: bhuttokamran1989@gmail.com | Phone: 0306-3195295</p>
+                <p>Address: Shah faisal Colony Karachi pakistan</p>
             </div>
         </div>
         <div className="content">
@@ -20,23 +20,23 @@ export default function Home() {
             </section>
             <section>
                 <h2>Education</h2>
-                <p><strong>Degree</strong> - University Name (Year of Graduation)</p>
-                <p>Relevant Courses: Course 1, Course 2, Course 3</p>
+                <p><strong>Degree</strong> - Shah Abdul latif University Khairpur (2012)</p>
+                <p>Relevant Courses: Computer CIT</p>
             </section>
             <section>
-                <h2>Experience</h2>
-                <p><strong>Job Title</strong> - Company Name (Start Date - End Date)</p>
+                <h2>Experience:Working in Government organization as Accountant</h2>
+                <p><strong>Job Title:Assistant</strong> - Company Name:Government (2014 - Till today)</p>
                 <ul>
-                    <li>Responsibility or achievement 1</li>
-                    <li>Responsibility or achievement 2</li>
+                    <li>Responsibility or achievement 1:Handling the Accounts matter </li>
+                    <li>Responsibility or achievement 2:Supervise the work of staff members</li>
                 </ul>
             </section>
             <section>
                 <h2>Skills</h2>
                 <ul>
-                    <li>Skill 1</li>
-                    <li>Skill 2</li>
-                    <li>Skill 3</li>
+                    <li>Skill 1: Proficeint in Accounts</li>
+                    <li>Skill 2: Proficient in Managment</li>
+                    <li>Skill 3: Proficient in Computer Basics</li>
                 </ul>
             </section>
             <section>
